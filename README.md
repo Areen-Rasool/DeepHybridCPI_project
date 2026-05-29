@@ -42,6 +42,11 @@ Improve accuracy and robustness of CPI prediction
   python train.py --dataset human --save_model
   ```
 
+  For C. elegans dataset:
+  ```bash
+  python train.py --dataset celegans --save_model
+  ```
+
 #### Datasets
 
 All data used in this paper are publicly available and can be accessed here: https://github.com/masashitsubaki/CPI_prediction 

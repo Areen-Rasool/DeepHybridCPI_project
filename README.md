@@ -5,9 +5,9 @@
 
 **DeepHybridCPI** is a hybrid deep learning framework for predicting compound–protein interactions (CPI). It combines:
 
-- 🧠 **Multiscale Graph Neural Network** for compound feature extraction  
-- 🧬 **CNN–LSTM architecture** for protein feature extraction  
-- 🔗 **MLP module** for integrating compound and protein embeddings  
+-  **Multiscale Graph Neural Network** for compound feature extraction  
+-  **CNN–LSTM architecture** for protein feature extraction  
+-  **MLP module** for integrating compound and protein embeddings  
 
 ### 🎯 Goal:
 Improve accuracy and robustness of CPI prediction

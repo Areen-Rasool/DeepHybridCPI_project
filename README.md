@@ -27,6 +27,7 @@ Improve accuracy and robustness of CPI prediction
 ```bash
 !pip install torch_geometric
 !pip install rdkit
+```
 
 ## 🚀 Training Pipeline
 

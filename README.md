@@ -30,11 +30,14 @@ Improve accuracy and robustness of CPI prediction
 
 #### Train/test DeepHybridCPI:
   
-- First, run preprocessing.py using  
+- First, run preprocessing.py using
+```bash
   `python preprocessing.py`  
-
-- Second, run train.py using 
-  `python train.py --dataset human --save_model` for Human dataset and `python train.py --dataset celegans --save_model` for C.elegans dataset
+```
+- Second, run train.py using
+  ```bash
+  `python train.py --dataset human --save_model`  ``` for Human dataset 
+  and   ```bash `python train.py --dataset celegans --save_model`  ``` for C.elegans dataset
 
 
 #### Datasets

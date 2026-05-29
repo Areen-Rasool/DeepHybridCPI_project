@@ -37,19 +37,19 @@ python preprocessing.py
 ```
 
 ### 🏋️ Step 2: Train Model
-🧍 For Human dataset:
+For Human dataset:
   ```bash
   python train.py --dataset human --save_model
   ```
 
- 🐛 For C. elegans dataset:
+ For C. elegans dataset:
   ```bash
   python train.py --dataset celegans --save_model
   ```
 
 ## 📊 Datasets
 
-🌐 Public datasets used in this work: https://github.com/masashitsubaki/CPI_prediction 
+ Public datasets used in this work: https://github.com/masashitsubaki/CPI_prediction 
 
 
 ## 📄 Published Paper

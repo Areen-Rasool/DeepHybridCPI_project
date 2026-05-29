@@ -30,9 +30,10 @@ Improve accuracy and robustness of CPI prediction
 
 ## 🚀 Training Pipeline
 
-### 🧪 Step 1: Preprocessing
+### 🧪 Step 1: Preprocessing 
 ```bash
 python preprocessing.py
+```
 
 ### 🏋️ Step 2: Train Model
 🧍 For Human dataset:

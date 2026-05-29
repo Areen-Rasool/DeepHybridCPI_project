@@ -44,8 +44,8 @@ Improve accuracy and robustness of CPI prediction
 
    and
   
-  ```bash `
-  python train.py --dataset celegans --save_model`
+  ```bash
+  `python train.py --dataset celegans --save_model`
   ```
 
    for C.elegans dataset

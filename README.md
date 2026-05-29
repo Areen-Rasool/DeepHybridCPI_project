@@ -39,13 +39,16 @@ Improve accuracy and robustness of CPI prediction
   ```bash
   `python train.py --dataset human --save_model`
    ```
+
   for Human dataset 
-  and
+
+   and
   
   ```bash `
   python train.py --dataset celegans --save_model`
   ```
-  for C.elegans dataset
+
+   for C.elegans dataset
 
 
 #### Datasets

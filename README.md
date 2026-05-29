@@ -1,18 +1,16 @@
 
 ## DeepHybridCPI: A hybrid deep learning framework for compound–protein interaction prediction
 
+### Overview
 
-### DeepHybridCPI
+**DeepHybridCPI** is a hybrid deep learning framework for predicting compound–protein interactions (CPI). It combines:
 
-A hybrid deep learning framework for predicting compound–protein interactions.
+- **Multiscale Graph Neural Network** for compound feature extraction
+- **CNN–LSTM architecture** for protein feature extraction
+- **MLP module** for integrating compound and protein embeddings
 
-Combines:
-- Multiscale Graph Neural Network for compound feature extraction
-- CNN-LSTM for protein feature extraction 
-- Fully connected interaction layers
-
-Goal:
-Improve prediction accuracy for  Compound-Protein Interaction.
+**Goal:**
+Improve accuracy and robustness of CPI prediction
 
 
 <div align="center">
@@ -39,12 +37,12 @@ Improve prediction accuracy for  Compound-Protein Interaction.
   `python train.py --dataset human --save_model` for Human dataset and `python train.py --dataset celegans --save_model` for C.elegans dataset
 
 
-### Dataset
+#### Datasets
 
 All data used in this paper are publicly available and can be accessed here: https://github.com/masashitsubaki/CPI_prediction 
 
 ###  Citation
 
-If you use DeepHybridCPI in your research, please cite our work:
+If you use DeepHybridCPI in your research, please cite our work: 
 
-Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. Journal of Molecular Graphics and Modelling, 109303.
+"Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. Journal of Molecular Graphics and Modelling, 109303".

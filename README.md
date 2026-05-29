@@ -47,7 +47,7 @@ python preprocessing.py
 
 ## 📊 Datasets
 
-- 🌐 Public dataset used in this work: https://github.com/masashitsubaki/CPI_prediction 
+🌐 Public dataset used in this work: https://github.com/masashitsubaki/CPI_prediction 
 
 
 ## 📄 Published Paper

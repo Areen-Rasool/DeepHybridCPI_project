@@ -54,10 +54,8 @@ All data used in this paper are publicly available and can be accessed here: htt
 
 ## 📄 Published Paper
 
-You can access our published work here:
-
-👉 [Download DeepHybridCPI Paper](./paper/DeepHybridCPI_paper.pdf)
+👉 [Download DeepHybridCPI Paper](https://github.com/Areen-Rasool/DeepHybridCPI_project/raw/main/paper/DeepHybridCPI_paper.pdf)
 
 **Citation:**
 
-Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. *Journal of Molecular Graphics and Modelling*, 109303.
+Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. Journal of Molecular Graphics and Modelling, 109303.

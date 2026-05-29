@@ -51,8 +51,13 @@ Improve accuracy and robustness of CPI prediction
 
 All data used in this paper are publicly available and can be accessed here: https://github.com/masashitsubaki/CPI_prediction 
 
-##  Citation
 
-If you use DeepHybridCPI in your research, please cite our work: 
+## 📄 Published Paper
 
-"Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. Journal of Molecular Graphics and Modelling, 109303".
+You can access our published work here:
+
+👉 [Download DeepHybridCPI Paper](./paper/DeepHybridCPI_paper.pdf)
+
+**Citation:**
+
+Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. *Journal of Molecular Graphics and Modelling*, 109303.

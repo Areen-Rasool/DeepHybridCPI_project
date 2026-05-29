@@ -47,7 +47,7 @@ python preprocessing.py
 
 ## 📊 Datasets
 
-🌐 Public dataset used in this work: https://github.com/masashitsubaki/CPI_prediction 
+🌐 Public datasets used in this work: https://github.com/masashitsubaki/CPI_prediction 
 
 
 ## 📄 Published Paper
@@ -58,5 +58,8 @@ python preprocessing.py
   </a>
 </p>
 
-📚 **Citation:**  
-Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. *Journal of Molecular Graphics and Modelling*, 109303.
+
+## 📚 Citation  
+If you use DeepHybridCPI in your research, please cite our work:
+
+Rasool, A., Rahman, J. U., & Ali, Q. (2026). DeepHybridCPI: A Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction. *Journal of Molecular Graphics and Modelling*, 109303. DOI: https://doi.org/10.1016/j.jmgm.2026.109303

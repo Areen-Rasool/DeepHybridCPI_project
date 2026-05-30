@@ -19,37 +19,6 @@ Improve accuracy and robustness of CPI prediction
 
 ---
 
-## ⚙️ Installation & Setup
-
-### 💻 Google Colab (Recommended)
-
-```bash
-!pip install torch_geometric
-!pip install rdkit
-```
-
-## 🚀 Training Pipeline
-
-###  Step 1: Preprocessing 
-```bash
-python preprocessing.py
-```
-
-###  Step 2: Train Model
-For Human dataset:
-  ```bash
-  python train.py --dataset human --save_model
-  ```
-
- For C. elegans dataset:
-  ```bash
-  python train.py --dataset celegans --save_model
-  ```
-
-## 📊 Datasets
-
- Public datasets used in this work: https://github.com/masashitsubaki/CPI_prediction 
-
 
 ## 📄 Published Paper
 

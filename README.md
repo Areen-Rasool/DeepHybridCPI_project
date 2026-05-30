@@ -59,13 +59,11 @@ For Human dataset:
   </a>
 </p>
 
-<p align="center">
-  <a href="YOUR_PAPER_LINK">
-    <img src="https://img.shields.io/badge/Download%20Paper-PDF-blue?style=for-the-badge&logo=googledrive">
-  </a>
+## 💻 Source Code
 
-  <a href="https://github.com/jamshaidwarraich/DeepHybridCPI">
-    <img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github">
+<p align="center">
+  <a href="https://github.com/jamshaidwarraich/DeepHybridCPI" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repository-DeepHybridCPI-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
 </p>
 

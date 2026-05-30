@@ -23,8 +23,8 @@ Improve accuracy and robustness of CPI prediction
 ## 📄 Published Paper
 
 <p align="center">
-  <a href="https://github.com/Areen-Rasool/DeepHybridCPI_project/raw/main/paper/DeepHybridCPI_paper.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Paper-DeepHybridCPI-blue?style=for-the-badge&logo=googledrive">
+  <a href="https://www.sciencedirect.com/science/article/pii/S1093326326000000" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Paper-ScienceDirect-blue?style=for-the-badge&logo=elsevier">
   </a>
 </p>
 

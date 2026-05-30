@@ -59,6 +59,15 @@ For Human dataset:
   </a>
 </p>
 
+<p align="center">
+  <a href="YOUR_PAPER_LINK">
+    <img src="https://img.shields.io/badge/Download%20Paper-PDF-blue?style=for-the-badge&logo=googledrive">
+  </a>
+
+  <a href="https://github.com/jamshaidwarraich/DeepHybridCPI">
+    <img src="https://img.shields.io/badge/View%20Code-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ## 📚 Citation  
 If you use DeepHybridCPI in your research, please cite our work:

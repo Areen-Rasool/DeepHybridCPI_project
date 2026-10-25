@@ -24,13 +24,6 @@ Improve accuracy and robustness of CPI prediction
 
 <p align="center"> <a href="https://github.com/Areen-Rasool/DeepHybridCPI_project/raw/main/paper/DeepHybridCPI_paper.pdf" target="_blank"> <img src="https://img.shields.io/badge/Download%20Paper-DeepHybridCPI-blue?style=for-the-badge&logo=googledrive"> </a> </p>
 
-## 💻 Source Code
-
-<p align="center">
-  <a href="https://github.com/jamshaidwarraich/DeepHybridCPI" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repository-DeepHybridCPI-181717?style=for-the-badge&logo=github" alt="GitHub Repo">
-  </a>
-</p>
 
 ## 📚 Citation  
 If you use DeepHybridCPI in your research, please cite our work:
